@@ -8,23 +8,23 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 - This repository: https://github.com/cmustudent/tswd-portfolio-templates/
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi, my name is Drisya Antose, and I am a first year Public Policy Management at Carnegie Mellon University. I am passionate about data driven decision policymaking, specifically in energy and infrastructure that relates to energy. I have research experience in policy however with my master’s degree, I am hoping to leverage new tools to leverage policy making and analysis. Currently, I am looking for opportunities that would allow me to use creative data tools within critical policy issues in energy and critical infrastructure. 
+
+
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
 
-1. List item #1
-2. List item #2
-3. List item #3
+1. Creating translatable graphs for a wider audience, learning nuances in color and other tools. 
+2. Gaining data visualization skills that would aid me to succinctly communicate my research.
+3. Developing graph critiquing skills, and ability to give feedback on various visuals.
 
-or...
+# What I hope to do after I graduate
 
-- List item #1
-- List item #2
-- List item #3
+I hope to work at the intersection of creative tools and critical policy issues, especially using tools to inform a wider audience. 
+
 
 # Portfolio
 
