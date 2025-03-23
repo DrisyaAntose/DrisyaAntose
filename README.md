@@ -22,6 +22,7 @@ I hope to work at the intersection of creative tools and critical policy issues,
 
 # Portfolio
 
+# Please find below my first attempt at using tableau to map out government debt ratios 
 ## Assignment: [Visualizing government Debt](visualizing-government-debt)
 <script type='text/javascript'>                    
 var divElement = document.getElementById('viz1742767020882');                    
@@ -29,6 +30,15 @@ var vizElement = divElement.getElementsByTagName('object')[0];                  
 var scriptElement = document.createElement('script');                    
 scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script> 
+
+# I took my newfound skills forward, and tried mapping the euro area crisis 10 years from when Portugal, Italy, Ireland, Greece and Spain declared an economic crisis. 
+
+<script type='text/javascript'>                    
+var divElement = document.getElementById('viz1742766760206');                    
+var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';              var scriptElement = document.createElement('script');
+scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script> 
+
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
