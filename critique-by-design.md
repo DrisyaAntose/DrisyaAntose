@@ -1,59 +1,83 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
-
 # Title
-Text here...
+The future of wind energy is now looking GUST right 
 
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
-
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
 
 ## Step one: the visualization
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+Over the last couple of months, I have taken an interest in energy policy. With climate change policy in focus, it is not surprise that now more than ever we need data that is easy and accessible to the masses on indicators such as renewable energy markers, carbon readings, and warming trends. Therefore, this Makeover Monday assignment was an opportunity for me to visualize data I believe is critical. Therefore, I chose this website and visual for the makeover. 
+
 
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+
+It is evident that while the diagrammatic representations of the windmill in the data serves as a tool to capture the attention of the reader. It clearly takes away from understanding the different data sets and trends clearly. On closer observation, we see that the designer who created the observation had attempted to integrate three different data sets into the same visual. This overloaded the x axis, created confusion in the labels, and made it difficult to make out certain data points. 
 
 ## Step three: Sketch a solution
 
+After having a closer look at the data set and the visual, I decided to separate the data into two separate visuals. With a vague idea in mind, I decided to pick up my iPad and digitally sketch a rough draft. 
+
+
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
+After sketching out the rough visuals, I decided to present it to 3 of my classmates to get their feedback. You’ll find below my interview script: 
 
-Questions to ask (modify these for your own interviews): 
+Questions to ask 
+1.	What do you think this is showing?
+2.	What stands out to you first?
+3.	Is there anything that seems confusing or unclear?
+4.	Is there anything you’d tweak or do differently?
 
-- Can you tell me what you think this is?
 
-- Can you describe to me what this is telling you?
-
-- Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
-
-- Is there anything you would change or do differently?
 
 Results: 
 
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
+I had three interviewees, and they were three students from Heinz, who were enrolled in the class. 
+
+Interviewee #1: Heinz Student, MISM 25
+
+Interviewee #2: Heinz Student, MSPPM 26 
+
+Interviewee #3: Heinz Student, MEIM 25
 
 
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+What do you think this is showing: 
+
+1: A downward trending bar chart, and a sectioned map showing wind energy trends. 
+
+2: Two visuals, both showing two sets of data, one of installed capacity in wind energy and the other is capturing total investment in wind energy. 
+
+3: Two visuals with individual legends, one is showing homes powered and wind capacity, another is showing investment 
+
+What stands out to you first?
+
+1: The colors and the map, it is evident that Texas is huge in wind power. 
+
+2: Texas is a huge stakeholder in wind energy.
+
+3: There’s a lot of money in Texas for wind energy. 
+
+Is there anything that seems confusing or unclear?
+
+1: There is some ambiguity around what exactly I am looking at, data wise, in the bar chart. What do the legends mean?
+
+2: The colors and shading in the legend for both graphs seem difficult to understand. 
+
+3: Not sure how these two data sets relate to each other. 
+
+Is there anything you’d tweak or do differently?
+
+1: I would maybe separate the bar chart into two split charts so the distinctions and trends in data are seen clearly. 
+
+2: The title is something I would change, there is lack of clarity on what we are supposed to take away from the data. 
+
+3: I would want more clarity on the data, and more of a catchy title
 
 Synthesis: 
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+The topline feedback I learn was that there was confusion across the board about the use of data sets and if they are being used appropriately and strategically. While they did agree that my new renderings were far clearer and better done than the original, they believed that the visual could benefit from further splicing. The feedback regarding the titles also gave me an opportunity to think about how I would want to reapproach the data, and what I believe the main takeaway from the data should be. 
 
 ## Step five: build the solution
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+With all this feedback in mind, and with clarity on how to move ahead, I went on to build the solution on tableau. I extracted the data and built an excel sheet from the original source, relabeled them on tableau and began my visualization promptly.
 
-## References
-_List any references you used here._
 
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
 
