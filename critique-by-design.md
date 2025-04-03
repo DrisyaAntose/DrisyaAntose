@@ -84,25 +84,12 @@ With all this feedback in mind, and with clarity on how to move ahead, I went on
 
 *This is the first visual of the two:*
 
-<script type='text/javascript'>              
-var divElement = document.getElementById('viz1743720213665');   
-var vizElement = divElement.getElementsByTagName('object')[0];                   
-vizElement.style.width='100%';
-vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                   
-var scriptElement = document.createElement('script');                    
-scriptElement.src = 'https://public.tableau.com/javascripts/api viz_v1.js';                    
-vizElement.parentNode.insertBefore(scriptElement, vizElement);                
-</script>
+<iframe
+src="https://public.tableau.com/views/WindEnergy_StateInvestment/Sheet1?:showVizHome=no&:embed=true”  width="90%" height="500" seamless frameborder="0" scrolling="no"></iframe>
 
 *This is the second:*
 
-<script type='text/javascript'>                    
-var divElement = document.getElementById('viz1743720330522');                    
-var vizElement = divElement.getElementsByTagName('object')[0];                    
-vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                   
-var scriptElement = document.createElement('script');                    
-scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                  
-vizElement.parentNode.insertBefore(scriptElement, vizElement);                
-</script>
+<iframe
+src=“https://public.tableau.com/views/energytwogrid/Sheet1?:showVizHome=no&:embed=true” width="90%" height="500" seamless frameborder="0" scrolling="no"></iframe>
 
 
