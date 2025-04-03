@@ -1,10 +1,12 @@
-# Title
-The future of wind energy is now looking GUST right 
+
+## The future of wind energy is now looking GUST right 
 
 
 ## Step one: the visualization
 
 Over the last couple of months, I have taken an interest in energy policy. With climate change policy in focus, it is not surprise that now more than ever we need data that is easy and accessible to the masses on indicators such as renewable energy markers, carbon readings, and warming trends. Therefore, this Makeover Monday assignment was an opportunity for me to visualize data I believe is critical. Therefore, I chose this website and visual for the makeover. 
+
+[Visual Used For Critique](https://howmuch.net/articles/wind-power-in-the-united-states-2018) 
 
 
 ## Step two: the critique
