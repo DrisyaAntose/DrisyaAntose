@@ -31,7 +31,7 @@ Questions to ask
 
 
 
-Results: 
+## Results: 
 
 I had three interviewees, and they were three students from Heinz, who were enrolled in the class. 
 
@@ -42,7 +42,7 @@ Interviewee #2: Heinz Student, MSPPM 26
 Interviewee #3: Heinz Student, MEIM 25
 
 
-What do you think this is showing: 
+*What do you think this is showing:*
 
 1: A downward trending bar chart, and a sectioned map showing wind energy trends. 
 
@@ -50,7 +50,7 @@ What do you think this is showing:
 
 3: Two visuals with individual legends, one is showing homes powered and wind capacity, another is showing investment 
 
-What stands out to you first?
+*What stands out to you first?*
 
 1: The colors and the map, it is evident that Texas is huge in wind power. 
 
@@ -58,7 +58,7 @@ What stands out to you first?
 
 3: There’s a lot of money in Texas for wind energy. 
 
-Is there anything that seems confusing or unclear?
+*Is there anything that seems confusing or unclear?*
 
 1: There is some ambiguity around what exactly I am looking at, data wise, in the bar chart. What do the legends mean?
 
@@ -66,7 +66,7 @@ Is there anything that seems confusing or unclear?
 
 3: Not sure how these two data sets relate to each other. 
 
-Is there anything you’d tweak or do differently?
+*Is there anything you’d tweak or do differently?*
 
 1: I would maybe separate the bar chart into two split charts so the distinctions and trends in data are seen clearly. 
 
@@ -74,13 +74,35 @@ Is there anything you’d tweak or do differently?
 
 3: I would want more clarity on the data, and more of a catchy title
 
-Synthesis: 
+## Synthesis: 
 
-The topline feedback I learn was that there was confusion across the board about the use of data sets and if they are being used appropriately and strategically. While they did agree that my new renderings were far clearer and better done than the original, they believed that the visual could benefit from further splicing. The feedback regarding the titles also gave me an opportunity to think about how I would want to reapproach the data, and what I believe the main takeaway from the data should be. 
+The topline feedback I gauged was that there was confusion across the board about the use of data sets and if they are being used appropriately and strategically. While they did agree that my new renderings were far clearer and better done than the original, they believed that the visual could benefit from further splicing. The feedback regarding the titles also gave me an opportunity to think about how I would want to reapproach the data, and what I believe the main takeaway from the data should be. 
 
 ## Step five: build the solution
 
 With all this feedback in mind, and with clarity on how to move ahead, I went on to build the solution on tableau. I extracted the data and built an excel sheet from the original source, relabeled them on tableau and began my visualization promptly.
 
+*This is the first visual of the two:*
+
+<script type='text/javascript'>              
+var divElement = document.getElementById('viz1743720213665');   
+var vizElement = divElement.getElementsByTagName('object')[0];                   
+vizElement.style.width='100%';
+vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                   
+var scriptElement = document.createElement('script');                    
+scriptElement.src = 'https://public.tableau.com/javascripts/api viz_v1.js';                    
+vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
+
+*This is the second:*
+
+<script type='text/javascript'>                    
+var divElement = document.getElementById('viz1743720330522');                    
+var vizElement = divElement.getElementsByTagName('object')[0];                    
+vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                   
+var scriptElement = document.createElement('script');                    
+scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                  
+vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
 
 
