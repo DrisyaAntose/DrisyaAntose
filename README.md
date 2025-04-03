@@ -24,12 +24,8 @@ I hope to work at the intersection of creative tools and critical policy issues,
 
 # Please find below my first attempt at using tableau to map out government debt ratios 
 ## Assignment: [Visualizing government Debt](visualizing-government-debt)
-<script type='text/javascript'>                    
-var divElement = document.getElementById('viz1742767020882');                    
-var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';    
-var scriptElement = document.createElement('script');                    
-scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
-</script> 
+<iframe
+src="https://public.tableau.com/views/Book1_17427656424080/Sheet1?:showVizHome=no&:embed=true” width="90%" height="500" seamless frameborder="0" scrolling="no"></iframe>
 
 # I took my newfound skills forward, and tried mapping the euro area crisis 10 years from when Portugal, Italy, Ireland, Greece and Spain declared an economic crisis. 
 
