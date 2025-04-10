@@ -25,12 +25,15 @@ This section will outline why this issue impacts the citizens of these countries
 
 
 # The data
-My data is taken from the climate policy initiative. The methodology used by the data collectors was using extensive data scoping exercises and datasets about project financing in the region. The data set is divided into financing for mitigation and adaptation. Mitigation includes emission reduction, while adaptation deals with climate resilience. The financial flows are also separated into domestic and international financial activities while classifying the actors involved in these financing initiatives. 
+My data is taken from the Climate Policy Initiative. The methodology used by the data collectors was using extensive data scoping exercises and datasets about project financing in the region. The data set is divided into financing for mitigation and adaptation. Mitigation includes emission reduction, while adaptation deals with climate resilience. The financial flows are also separated into domestic and international financial activities while classifying the actors involved in these financing initiatives. 
 
 Further, the data is classified according to regions in the continent, while also using standard UN labelling to classify the countries according to income and development status. However, data scientists recognize the gaps in the data presented as well. Specifically in domestic financing, private sector data, and Chinese investment. This is due to the lack in transparency and the lack of climate-relevance data. 
 
 The data will be used to show needs and financing patterns across the subcontinent. Financing sources will be charted through sectioned graphs to show changes in funding sources, further pie charts will be used to show the financing objectives (adaptation, mitigation, dual benefits). Lastly, a general demographic graph will be included to show the features of the country. 
 
+Here are the links to the data taken from the [Climate Policy Initiative](#https://www.climatepolicyinitiative.org/) 
+1. [Source 1](#https://github.com/DrisyaAntose/DrisyaAntose/blob/main/Data-Landscape-of-Climate-Finance-in-Africa-2024.xlsx)
+2. 
 
 
 # Method and medium
