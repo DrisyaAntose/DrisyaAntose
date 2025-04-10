@@ -1,42 +1,41 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-Text here...
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+Climate finance is an impactful financial tool that allocates resources for climate change activities, and funds are allocated and dispensed to communities affected by climate change. While climate finance is critical, it is nascent in terms of development and adaptation, therefore there are educational gaps within communities who are impacted by climate change. 
+This story is a story that is designed to raise awareness about climate finance, particularly individuals in the region who are affected by these policies. Further, this would contextualize Africa’s climate finance initiatives within a global framework, while analyzing real world impact. Data will be used to draw trends between regions, highlighting specific country case studies, and tying it in with country demographics relevant to this analysis. 
 
-Text here...
 
-## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+1.	Setting Up Context: “What is climate finance?”
+Introduction to climate finance and highlighting the importance of this tool. Giving examples of climate finance, trends, and history of this tool. 
+2.	The Regional Lens:  “Why is this important for Sub-Saharan Africa?”
+How is climate finance is allocated within the region? What are the gaps in funding requirements vs realized funding? 
+3.	Case study:  “What high-level comparisons can be drawn?”
+Two regions on contrasting ends of the climate finance spectrum can be integrated to show parallel side by side case study of climate finance in this domain. 
+4.	Impact : “Why does this matter to people?”
+This section will outline why this issue impacts the citizens of these countries and their livelihoods. 
+5.	Call to action: “Empower citizens to understand and advocate for effective climate finance tools in their communities” 
 
-Text here...
+
+
+## Initial sketches 
+
+
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+My data is taken from the climate policy initiative. The methodology used by the data collectors was using extensive data scoping exercises and datasets about project financing in the region. The data set is divided into financing for mitigation and adaptation. Mitigation includes emission reduction, while adaptation deals with climate resilience. The financial flows are also separated into domestic and international financial activities while classifying the actors involved in these financing initiatives. 
 
-Text here...
+Further, the data is classified according to regions in the continent, while also using standard UN labelling to classify the countries according to income and development status. However, data scientists recognize the gaps in the data presented as well. Specifically in domestic financing, private sector data, and Chinese investment. This is due to the lack in transparency and the lack of climate-relevance data. 
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+The data will be used to show needs and financing patterns across the subcontinent. Financing sources will be charted through sectioned graphs to show changes in funding sources, further pie charts will be used to show the financing objectives (adaptation, mitigation, dual benefits). Lastly, a general demographic graph will be included to show the features of the country. 
 
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
+I will be using tableau to create the various interactive visualizations. These visualizations will be embedded in Shorthand where I will create a cohesive story with the use of interactive slides. 
 
-Text here...
 
 ## References
 _List any references you used here._
 
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
