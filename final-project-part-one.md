@@ -21,7 +21,7 @@ This section will outline why this issue impacts the citizens of these countries
 
 ## Initial sketches 
 
-
+![alt text] (https://github.com/DrisyaAntose/DrisyaAntose/blob/main/images/Telling%20Stories%20-5.jpg) 
 
 # The data
 My data is taken from the climate policy initiative. The methodology used by the data collectors was using extensive data scoping exercises and datasets about project financing in the region. The data set is divided into financing for mitigation and adaptation. Mitigation includes emission reduction, while adaptation deals with climate resilience. The financial flows are also separated into domestic and international financial activities while classifying the actors involved in these financing initiatives. 
