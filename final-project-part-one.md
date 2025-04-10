@@ -31,8 +31,8 @@ Further, the data is classified according to regions in the continent, while als
 
 The data will be used to show needs and financing patterns across the subcontinent. Financing sources will be charted through sectioned graphs to show changes in funding sources, further pie charts will be used to show the financing objectives (adaptation, mitigation, dual benefits). Lastly, a general demographic graph will be included to show the features of the country. 
 
-Here are the links to the data taken from the [Climate Policy Initiative](#https://www.climatepolicyinitiative.org/) 
-1. [Source 1](#https://github.com/DrisyaAntose/DrisyaAntose/blob/main/Data-Landscape-of-Climate-Finance-in-Africa-2024.xlsx)
+Here are the links to the data taken from the [Climate Policy Initiative](https://www.climatepolicyinitiative.org/) 
+1. [Source 1](https://github.com/DrisyaAntose/DrisyaAntose/blob/main/Data-Landscape-of-Climate-Finance-in-Africa-2024.xlsx)
 2. 
 
 
