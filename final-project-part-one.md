@@ -33,7 +33,7 @@ The data will be used to show needs and financing patterns across the subcontine
 
 Here are the links to the data taken from the [Climate Policy Initiative](https://www.climatepolicyinitiative.org/) 
 1. [Source 1](https://github.com/DrisyaAntose/DrisyaAntose/blob/main/Data-Landscape-of-Climate-Finance-in-Africa-2024.xlsx)
-2. 
+2. [Source 2](https://github.com/DrisyaAntose/DrisyaAntose/blob/main/Data-Landscape-of-Climate-Finance-in-Africa-2024.xlsx) 
 
 
 # Method and medium
