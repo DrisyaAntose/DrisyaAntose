@@ -2,64 +2,34 @@
 
 # Wireframes / storyboards
 
+This is the current shorthand I am using to document my story. 
+
+![image]
+
+![image]
+
+![image]
 
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+My target audience was initially the youth of Africa to educate them on the state of climate finance. However, being cognizant that I lack the local perspective, I have reverted to my domain strength of energy policy and have decided to create a informative fundraising narrative to potential donors. 
 
-Text here!
+## Interview and learnings 
+The goals from my interviews is to guage how my story can be told to a wider audience. More than a script, our team employed a panel discussion style to provide and recieve feedback. 
 
-## Interview script
-The goals from my interview is to guage how my story can be told to a wider audience. 
+I did interviews with two of my classmates to understand if they feel like I have a story that can be told. While they were intrigued by the overarching topic of climate finance, they struggled to link a story. I got a recommendation to reduce my narrative to a personal level, where I try to capture the gravity of climate finance while building a personal narrative. 
 
-Text here!
+Therefore, I introduced Imani, a farmer who is impacted by the shifts in climate change. She helps anchor the story through how her life is impacted by changes in rainfall, the inability for an NGO to sustain, and the predictive data on how much regions and the continent needs and how much does current climate finance funding provide. 
 
-| Goal | Questions to Ask |
-|------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+Another feedback I got is integrating metrics that help understand top 5 and bottom 5 in terms of countries that need and use climate finance. While also integrating case studies from each country.  
 
-
-Text here!
-
-## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
-
-Text here!
-
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+There was also ambiguity on what my audience could be, and considering the nature of climate finance, I got the recommendation to build my story for fundraising. Further, while driving home the impact their donation could have on farmers such as Imani. 
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
-
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
-
-> ...include any final thoughts you have here. 
-
-Text here!
+The changes that have been implemented are the introduction of Imani, and the story unfolding with Imani’s experiences. This has also shifted macro-level statistics, to more engaging story telling by connecting a personal narrative to the trends we have displayed. There will also be changes in country-level insight provided by the graphs. The content and narrative will also change as the audience has been changed. We will also use predictive date to be tied back into Imani’s case study. 
 
 
-
-Text here!
-
-## References
-_List any references you used here._
-
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
 
