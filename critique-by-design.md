@@ -9,6 +9,7 @@ Over the last couple of months, I have taken an interest in energy policy. With 
 [Visual Used For Critique](https://howmuch.net/articles/wind-power-in-the-united-states-2018) 
 
 
+
 ## Step two: the critique
 
 It is evident that while the diagrammatic representations of the windmill in the data serves as a tool to capture the attention of the reader. It clearly takes away from understanding the different data sets and trends clearly. On closer observation, we see that the designer who created the observation had attempted to integrate three different data sets into the same visual. This overloaded the x axis, created confusion in the labels, and made it difficult to make out certain data points. 
