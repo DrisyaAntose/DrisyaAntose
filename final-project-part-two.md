@@ -2,7 +2,7 @@
 
 # Wireframes / storyboards
 
-This is the [current shorthand](https://preview.shorthand.com/3yOMBn6gk54ohQ0j) I am using to document my story. 
+This is the [current shorthand]((https://preview.shorthand.com/fWTKITuQ7R86GfZl)) I am using to document my story. 
 
 
 
