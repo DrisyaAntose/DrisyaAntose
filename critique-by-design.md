@@ -18,7 +18,7 @@ It is evident that while the diagrammatic representations of the windmill in the
 
 After having a closer look at the data set and the visual, I decided to separate the data into two separate visuals. With a vague idea in mind, I decided to pick up my iPad and digitally sketch a rough draft. 
 
-![here is the visual](images/Telling Stories-1.jpg)  
+[here is the visual](images/Telling Stories-1.jpg)  
 
 ## Step four: Test the solution
 
